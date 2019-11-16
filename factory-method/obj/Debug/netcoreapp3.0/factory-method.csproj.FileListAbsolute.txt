@@ -1,0 +1,11 @@
+/Users/gx/dotnet/design-patterns/factory-method/bin/Debug/netcoreapp3.0/factory-method
+/Users/gx/dotnet/design-patterns/factory-method/bin/Debug/netcoreapp3.0/factory-method.deps.json
+/Users/gx/dotnet/design-patterns/factory-method/bin/Debug/netcoreapp3.0/factory-method.runtimeconfig.json
+/Users/gx/dotnet/design-patterns/factory-method/bin/Debug/netcoreapp3.0/factory-method.runtimeconfig.dev.json
+/Users/gx/dotnet/design-patterns/factory-method/bin/Debug/netcoreapp3.0/factory-method.dll
+/Users/gx/dotnet/design-patterns/factory-method/bin/Debug/netcoreapp3.0/factory-method.pdb
+/Users/gx/dotnet/design-patterns/factory-method/obj/Debug/netcoreapp3.0/factory-method.csprojAssemblyReference.cache
+/Users/gx/dotnet/design-patterns/factory-method/obj/Debug/netcoreapp3.0/factory-method.AssemblyInfoInputs.cache
+/Users/gx/dotnet/design-patterns/factory-method/obj/Debug/netcoreapp3.0/factory-method.AssemblyInfo.cs
+/Users/gx/dotnet/design-patterns/factory-method/obj/Debug/netcoreapp3.0/factory-method.dll
+/Users/gx/dotnet/design-patterns/factory-method/obj/Debug/netcoreapp3.0/factory-method.pdb
