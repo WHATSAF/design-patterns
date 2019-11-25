@@ -12,11 +12,13 @@ namespace builder.Directors
 
         private readonly CoffeMachine _coffeMachine;
 
-        public void Build()
+        public Latte Build()
         {
             _coffeMachine.AddWater();
             _coffeMachine.AddBeans();
             _coffeMachine.AddMilk();
+
+            return _coffeMachine.GetLatte();
         }
     }
 }

@@ -1,5 +1,4 @@
 using System;
-using adapter.Abstractions;
 
 namespace adapter.Implementations
 {

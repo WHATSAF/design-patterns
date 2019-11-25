@@ -12,9 +12,7 @@ namespace builder
             CoffeMachine machine = new Starbucks();
             Barista barista = new Barista(machine);
 
-            barista.Build();
-
-            var latte = machine.GetLatte();
+            var latte = barista.Build();
             latte.Drink();
 
             Console.ReadLine();
