@@ -6,7 +6,9 @@ namespace facade
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            BankCard.ApplyCard();
+
+            Console.ReadLine();
         }
     }
 }
